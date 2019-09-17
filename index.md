@@ -2,7 +2,9 @@
 ### Tech Skills Resumé
 
 <details><summary>Skill 1</summary>
- <ul>hello</ul>
- <ul>this is a description</ul>
-  </details>
+ <ul>
+  <li>hello</li>
+  <li>this is a description</li>
+ </ul>
+</details>
  
