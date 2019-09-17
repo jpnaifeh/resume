@@ -1,5 +1,8 @@
 # J.P. Naifeh
 ### Tech Skills Resumé
 
-{% Fold %}
-hello
+<details><summary>Skill 1</summary>
+  * hello
+  * this is a description
+  </details>
+ 
