@@ -1,18 +1,17 @@
-<img src="Headshot.jpeg" width="240" height="372">
+<img src="Headshot.jpeg" width="160" height="248">
 <h1>J.P. Naifeh</h1>
-<p1>Senior studying Computer Information Systems at The University of Tulsa!</p1>
- 
+<p>Senior studying Computer Information Systems at The University of Tulsa!</p>
+<br><br>
  
 
 <h2> Tech Skills Resumé</h2>
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
-  <li>Completed edX Course entitled, "Microsoft: DAT207x Analyzing and Visualizing Data with Power BI" (Audit)</li>
-  <details><summary>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</summary>
+  <li>Completed Course: <b>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</b></li>
+       <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
+  <details><summary>Topics Covered</summary>
    <ul>
-   <li>Topics Covered</li>
-    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
     <li>Importing your data and automatically creating dashboards from services such as Marketo, Salesforce, and
  Google Analytics</li>
@@ -32,9 +31,8 @@
     <li>Introduction to Power BI Development API</li>
     <li>Leveraging custom visuals in Power BI</li>
     </ul>
-    <li><a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a></li>
-   </ul>
   </details>
+  <br>
   The following Report was created to demonstrate only a few of the various visualizations available in Microsoft Power BI. 
   <img src="PowerBIScreenshot.png"> 
   The live version of this report can be accessed <a href="https://app.powerbi.com/groups/me/reports/cedca670-45a7-468b-abc7-ef6e0074448f?ctid=d4ff013c-62b7-4167-924f-5bd93e8202d3">here</a>.
