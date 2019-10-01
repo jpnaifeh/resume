@@ -1,1 +1,16 @@
 theme: jekyll-theme-slate
+title: J.P. Naifeh
+author: J.P. Naifeh
+email: jp-naifeh@utulsa.edu
+description: > # this means to ignore newlines until "baseurl:"
+location: Tulsa, Oklahoma
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "J.P. Naifeh"
+resume_title:                   "CIS Student"
+resume_contact_email:           "jp-naifeh@utulsa.edu"
+resume_contact_telephone:       "918-691-9380"
+resume_contact_address:         "Tulsa, Oklahoma"
+resume_header_contact_info: "918-691-9380 | jp-naifeh@utulsa.edu"
+resume_header_intro: "<p>We're more than our resumes, but this is a snapshot!</p>"
