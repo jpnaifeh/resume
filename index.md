@@ -36,6 +36,8 @@
   The following Report was created to demonstrate only a few of the various visualizations available in Microsoft Power BI. 
   <img src="PowerBIScreenshot.png"> 
   The live version of this report can be accessed <a href="https://app.powerbi.com/groups/me/reports/cedca670-45a7-468b-abc7-ef6e0074448f?ctid=d4ff013c-62b7-4167-924f-5bd93e8202d3">here</a>.
+  <br>
+  A video overview of this dashboard may be viewed <a href="https://youtu.be/bMBHaFjhzdA">here</a>.
  </ul>
 </details>
  
