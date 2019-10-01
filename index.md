@@ -1,10 +1,10 @@
-<img src="Headshot.jpeg" width=240 height=372></img>
-# J.P. Naifeh
-##### Senior studying Computer Information Systems at The University of Tulsa!
+<img src="Headshot.jpeg" width=240 height=372>
+<h1>J.P. Naifeh</h1>
+<p1>Senior studying Computer Information Systems at The University of Tulsa!</p1>
  
  
 
-## Tech Skills Resumé
+<h2> Tech Skills Resumé</h2>
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
