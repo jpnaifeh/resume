@@ -1,10 +1,10 @@
 # J.P. Naifeh
 ### Tech Skills Resumé
 
-<details><summary>Skill 1</summary>
+<details><summary>Microsoft Power BI</summary>
  <ul>
-  <li>hello</li>
-  <li>this is a description</li>
+  <li>Audited edX Course entitled, "Microsoft: DAT207x Analyzing and Visualizing Data with Power BI"</li>
+  <li><a href='www.google.com'>Verification</a></li>
  </ul>
 </details>
  
