@@ -1,4 +1,4 @@
-<image src="Headshot.jpeg" width=240 height=372></image>
+<img src="Headshot.jpeg" width=240 height=372></img>
 # J.P. Naifeh
 ##### Senior studying Computer Information Systems at The University of Tulsa!
  
@@ -36,7 +36,7 @@
    </ul>
   </details>
   The following Report was created to demonstrate only a few of the various visualizations available in Microsoft Power BI. 
-  <image src="PowerBIScreenshot.png" width=992 height=566></image> 
+  <img src="PowerBIScreenshot.png" width=992 height=566></img> 
   The live version of this report can be accessed <a href="https://app.powerbi.com/groups/me/reports/cedca670-45a7-468b-abc7-ef6e0074448f?ctid=d4ff013c-62b7-4167-924f-5bd93e8202d3">here</a>.
  </ul>
 </details>
