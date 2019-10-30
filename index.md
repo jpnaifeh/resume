@@ -1,6 +1,6 @@
 <img src="Headshot.jpeg" width="160" height="248">
 <h1>J.P. Naifeh</h1>
-<p>Senior studying Computer Information Systems at The University of Tulsa!!</p>
+<p>Senior studying Computer Information Systems at The University of Tulsa!</p>
 <br><br>
  
 
