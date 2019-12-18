@@ -8,7 +8,8 @@
 <details><summary>GitHub</summary>
  <ul>
   <b>Courses Completed:</b> First Day on GitHub & First Week on GitHub
-  <h4>Topics Covered:</h4>
+  <br><br>
+  <b>Topics Covered:</b>
   <ul>
    <li>Getting Ready for PowerShell</li>
    <li>Discovering and Getting Help</li>
@@ -24,8 +25,10 @@
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
-  <b>Course Completed:</b> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI 
+  <b>Course Completed:</b> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI <br>
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
+  <br>
+  <br>
   <b>Topics Covered:</b>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
@@ -59,7 +62,7 @@
 <details><summary>Linux</summary>
  <ul>
   <b>Course Completed:</b> LPI Linux Essentials
-  <br>
+  <br><br>
    <b>Topics Covered:</b>
   <ul>
    <li>Getting started with Linux</li>
@@ -73,11 +76,32 @@
  </ul>
    
 </details>
+
+<details><summary>AWS</summary>
+ <ul>
+  <b>Course Completed:</b> AWS Essentials
+  <br><br>
+   <b>Topics Covered:</b>
+  <ul>
+   <li>Getting started with AWS</li>
+   <li>IAM</li>
+   <li>Virtual Private Cloud (VPC)</li>
+   <li>Elastic Cloud Compute (EC2)</li>
+   <li>Storage Services</li>
+   <li>RDS and DynamoDB</li>
+   <li>Monitoring, Alerts, and Notifications</li>
+   <li>Load Balancing, Elasticity, and Scalability</li>
+   <li>Lambda (Serverless Compute)</li>
+ </ul>
+    <img src="AWS_Cert.jpg">
+ </ul>
+   
+</details>
  
 
 <details><summary>PowerShell</summary>
  <b>Course Completed:</b> PowerShell 5 Essentials
-  <br>
+  <br><br>
    <b>Topics Covered:</b>
   <ul>
    <li>Installing Windows Management Framework 5</li>
