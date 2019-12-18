@@ -103,6 +103,7 @@
 
 <details><summary>PowerShell</summary>
  <b>Course Completed:</b> PowerShell 5 Essentials
+ <ul>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Installing Windows Management Framework 5</li>
@@ -118,9 +119,7 @@
    <li>Using PowerShell remoting</li>
  </ul>
  <h4>Course Completion Certificate:</h4>
- <br>
   <img src="Powershell_Certificate.jpg">
- <br>
  </ul>
    
 </details>
