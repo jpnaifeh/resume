@@ -56,6 +56,26 @@
  </ul>
 </details>
 
+<details><summary>Linux</summary>
+ <ul>
+  <b>Course Completed:</b> LPI Linux Essentials
+  <br>
+  <br>
+   <h2>Topics Covered:</h2>
+  <ul>
+   <li>Getting started with Linux</li>
+   <li>Open source software</li>
+   <li>Using the command line</li>
+   <li>Working with and archiving files</li>
+   <li>Data storage</li>
+   <li>Users, groups, and permissions</li>
+ </ul>
+    <img src="Powershell_Certificate.jpg">
+ </ul>
+   
+</details>
+ 
+
 <details><summary>PowerShell</summary>
  <b>Course Completed:</b> PowerShell 5 Essentials
   <br>
