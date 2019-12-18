@@ -8,8 +8,7 @@
 <details><summary>GitHub</summary>
  <ul>
   <b>Courses Completed:</b> First Day on GitHub & First Week on GitHub
-  <br><br>
-  <b>Topics Covered:</b>
+  <h4>Topics Covered:</h4>
   <ul>
    <li>Getting Ready for PowerShell</li>
    <li>Discovering and Getting Help</li>
@@ -27,9 +26,7 @@
  <ul>
   <b>Course Completed:</b> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI <br>
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
-  <br>
-  <br>
-  <b>Topics Covered:</b>
+  <h4>Topics Covered:</h4>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
     <li>Importing your data and automatically creating dashboards from services such as Marketo, Salesforce, and
@@ -62,8 +59,7 @@
 <details><summary>Linux</summary>
  <ul>
   <b>Course Completed:</b> LPI Linux Essentials
-  <br><br>
-   <b>Topics Covered:</b>
+   <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with Linux</li>
    <li>Open source software</li>
@@ -73,13 +69,13 @@
    <li>Users, groups, and permissions</li>
  </ul>
   <br>
- <b>Course Completion Certificate:</b>
+ <h4>Course Completion Certificate:</h4>
   <br>
     <img src="Powershell_Certificate.jpg">
   <br>
  </ul>
  <br>
- <b>Linux VPN Implementation:</b>
+ <h4>Linux VPN Implementation:</h4>
  <p>In addition to the LPI Linux Essentials training by LinuxAcademy, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 18.1.6. Below is a screenshot verifying my installation.</p>
  <img src="DO_VPN_Proof.png">
    
@@ -88,8 +84,7 @@
 <details><summary>AWS</summary>
  <ul>
   <b>Course Completed:</b> AWS Essentials
-  <br><br>
-   <b>Topics Covered:</b>
+   <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with AWS</li>
    <li>IAM</li>
@@ -102,7 +97,7 @@
    <li>Lambda (Serverless Compute)</li>
  </ul>
   <br>
-  <b>Course Completion Certificate:</b>
+  <h4>Course Completion Certificate:</h4>
   <br>
     <img src="AWS_Cert.jpg">
   <br>
@@ -113,8 +108,7 @@
 
 <details><summary>PowerShell</summary>
  <b>Course Completed:</b> PowerShell 5 Essentials
-  <br><br>
-   <b>Topics Covered:</b>
+   <h4>Topics Covered:</h4>
   <ul>
    <li>Installing Windows Management Framework 5</li>
    <li>Running commands (cmdlets)</li>
@@ -128,8 +122,7 @@
    <li>Automating tasks</li>
    <li>Using PowerShell remoting</li>
  </ul>
- <br>
- <b>Course Completion Certificate:</b>
+ <h4>Course Completion Certificate:</h4>
  <br>
   <img src="Powershell_Certificate.jpg">
  <br>
@@ -140,9 +133,7 @@
 <details><summary>Salesforce</summary>
  <ul>
   <b>Course Completed:</b> Salesforce Admin Beginner Course
-  <br>
-  <br>
-   <b>Topics Covered:</b>
+   <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with Salesforce</li>
    <li>Understanding the architecture</li>
