@@ -3,14 +3,30 @@
 <p>Senior studying Computer Information Systems at The University of Tulsa!</p>
 <br><br>
  
-
 <h2> Tech Skills Resumé</h2>
+
+<details><summary>GitHub</summary>
+ <ul>
+   Completed Courses: <b>First Day on GitHub</b> & <b>First Week on GitHub</b>
+   <h2>Topics Covered</h2>
+  <ul>
+  <li>Getting Ready for PowerShell</li>
+  <li>Discovering and Getting Help</li>
+  <li>Extending Your Capabilities with PowerShell</li>
+  <li>Using the Power of the Pipeline</li>
+  <li>Getting More Out of Objects</li>
+  <li>Scripts and Automation</li>
+  <li>Scalable Management with PowerShell Remoting</li>
+ </ul>
+ </ul>
+   
+</details>
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
-  <li>Completed Course: <b>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</b></li>
+  Completed Course: <b>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</b>
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
-  <details><summary>Topics Covered</summary>
+  <h2>Topics Covered</h2>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
     <li>Importing your data and automatically creating dashboards from services such as Marketo, Salesforce, and
@@ -31,7 +47,6 @@
     <li>Introduction to Power BI Development API</li>
     <li>Leveraging custom visuals in Power BI</li>
     </ul>
-  </details>
   <br>
   The following Report was created to demonstrate only a few of the various visualizations available in Microsoft Power BI. 
   <img src="PowerBIScreenshot.png"> 
@@ -39,5 +54,28 @@
   <br>
   A video overview of this dashboard may be viewed <a href="https://youtu.be/bMBHaFjhzdA">here</a>.
  </ul>
+</details>
+
+<details><summary>PowerShell</summary>
+ <ul>
+   Completed Courses: <b>PowerShell</b> by LinkedIn Learning
+  <br>
+PowerShell is the must-have tool for Windows system administrators. Jump-start your career, and your IT environment, by getting up and running with the latest version, PowerShell 5. Jason Helmick shows you how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. Plus, learn how to take advantage of one of PowerShell's most exciting features, remote management, which can put thousands of machines at your beck and call.
+   <h2>Topics Covered</h2>
+  <ul>
+   <li>Installing Windows Management Framework 5</li>
+   <li>Running commands (cmdlets)</li>
+   <li>Discovering commands</li>
+   <li>Understanding cmdlet syntax</li>
+   <li>Resolving terse commands</li>
+   <li>Finding and using local modules</li>
+   <li>Working with files, printers, CSVs, and XML in the pipeline</li>
+   <li>Selecting, sorting, and filtering object data</li>
+   <li>Creating scripts</li>
+   <li>Automating tasks</li>
+   <li>Using PowerShell remoting</li>
+ </ul>
+ </ul>
+   
 </details>
  
