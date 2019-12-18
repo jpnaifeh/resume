@@ -125,7 +125,7 @@
 </details>
 
 <details><summary>Salesforce</summary>
- <ul>
+ 
   <b>Course Completed:</b> Salesforce Admin Beginner Course
    <h4>Topics Covered:</h4>
   <ul>
@@ -138,7 +138,7 @@
    <li>Engaging users</li>
    <li>Working with reports and dashboards</li>
  </ul>
- </ul>
+ 
    
 </details>
  
