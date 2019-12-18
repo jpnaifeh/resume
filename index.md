@@ -60,7 +60,6 @@
  <b>Course Completed:</b> PowerShell 5 Essentials
   <br>
   <br>
-<p>PowerShell is the must-have tool for Windows system administrators. Jump-start your career, and your IT environment, by getting up and running with the latest version, PowerShell 5. Jason Helmick shows you how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. Plus, learn how to take advantage of one of PowerShell's most exciting features, remote management, which can put thousands of machines at your beck and call.</p>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Installing Windows Management Framework 5</li>
@@ -85,7 +84,6 @@
   <b>Course Completed:</b> Salesforce Admin Beginner Course
   <br>
   <br>
-PowerShell is the must-have tool for Windows system administrators. Jump-start your career, and your IT environment, by getting up and running with the latest version, PowerShell 5. Jason Helmick shows you how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. Plus, learn how to take advantage of one of PowerShell's most exciting features, remote management, which can put thousands of machines at your beck and call.
    <h2>Topics Covered:</h2>
   <ul>
    <li>Getting started with Salesforce</li>
