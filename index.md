@@ -26,7 +26,7 @@
  <ul>
   <b>Course Completed:</b> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI 
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
-  <h4>Topics Covered:</h4>
+  <b>Topics Covered:</b>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
     <li>Importing your data and automatically creating dashboards from services such as Marketo, Salesforce, and
@@ -60,8 +60,7 @@
  <ul>
   <b>Course Completed:</b> LPI Linux Essentials
   <br>
-  <br>
-   <h2>Topics Covered:</h2>
+   <b>Topics Covered:</b>
   <ul>
    <li>Getting started with Linux</li>
    <li>Open source software</li>
@@ -79,8 +78,7 @@
 <details><summary>PowerShell</summary>
  <b>Course Completed:</b> PowerShell 5 Essentials
   <br>
-  <br>
-   <h4>Topics Covered:</h4>
+   <b>Topics Covered:</b>
   <ul>
    <li>Installing Windows Management Framework 5</li>
    <li>Running commands (cmdlets)</li>
@@ -104,7 +102,7 @@
   <b>Course Completed:</b> Salesforce Admin Beginner Course
   <br>
   <br>
-   <h2>Topics Covered:</h2>
+   <b>Topics Covered:</b>
   <ul>
    <li>Getting started with Salesforce</li>
    <li>Understanding the architecture</li>
