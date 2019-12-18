@@ -3,7 +3,7 @@
 <p>Senior studying Computer Information Systems at The University of Tulsa!</p>
 <br><br>
  
-<h2> Tech Skills Resumé</h2>
+<h3> Tech Skills Resumé</h2>
 
 <details><summary>GitHub</summary>
  <ul>
@@ -26,7 +26,7 @@
  <ul>
   Completed Course: <b>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</b>
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
-  <h2>Topics Covered</h2>
+  <h4>Topics Covered</h4>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
     <li>Importing your data and automatically creating dashboards from services such as Marketo, Salesforce, and
