@@ -73,10 +73,12 @@
    <li>Users, groups, and permissions</li>
  </ul>
   <br>
- <b>Course Completion Certificate:</b><br>
+ <b>Course Completion Certificate:</b>
+  <br>
     <img src="Powershell_Certificate.jpg">
+  <br>
  </ul>
- <br><br>
+ <br>
  <b>Linux VPN Implementation:</b>
  <p>In addition to the LPI Linux Essentials training by LinuxAcademy, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 18.1.6. Below is a screenshot verifying my installation.</p>
  <img src="DO_VPN_Proof.png">
@@ -103,6 +105,7 @@
   <b>Course Completion Certificate:</b>
   <br>
     <img src="AWS_Cert.jpg">
+  <br>
  </ul>
    
 </details>
@@ -126,8 +129,10 @@
    <li>Using PowerShell remoting</li>
  </ul>
  <br>
- <b>Course Completion Certificate:</b><br>
+ <b>Course Completion Certificate:</b>
+ <br>
   <img src="Powershell_Certificate.jpg">
+ <br>
  </ul>
    
 </details>
