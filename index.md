@@ -58,7 +58,7 @@
 
 <details><summary>Linux</summary>
  <ul>
-  <b>Course Completed:</b> LPI Linux Essentials
+  <b>Course Completed:</b><p> LPI Linux Essentials</p>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with Linux</li>
@@ -68,9 +68,7 @@
    <li>Data storage</li>
    <li>Users, groups, and permissions</li>
  </ul>
-  <br>
  <h4>Course Completion Certificate:</h4>
-  <br>
     <img src="Powershell_Certificate.jpg">
   <br>
  </ul>
@@ -96,11 +94,8 @@
    <li>Load Balancing, Elasticity, and Scalability</li>
    <li>Lambda (Serverless Compute)</li>
  </ul>
-  <br>
   <h4>Course Completion Certificate:</h4>
-  <br>
     <img src="AWS_Cert.jpg">
-  <br>
  </ul>
    
 </details>
