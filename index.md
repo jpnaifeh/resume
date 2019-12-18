@@ -72,6 +72,8 @@
    <li>Data storage</li>
    <li>Users, groups, and permissions</li>
  </ul>
+  <br>
+ <b>Course Completion Certificate:</b><br>
     <img src="Powershell_Certificate.jpg">
  </ul>
    
@@ -93,6 +95,9 @@
    <li>Load Balancing, Elasticity, and Scalability</li>
    <li>Lambda (Serverless Compute)</li>
  </ul>
+  <br>
+  <b>Course Completion Certificate:</b>
+  <br>
     <img src="AWS_Cert.jpg">
  </ul>
    
@@ -116,6 +121,8 @@
    <li>Automating tasks</li>
    <li>Using PowerShell remoting</li>
  </ul>
+ <br>
+ <b>Course Completion Certificate:</b><br>
   <img src="Powershell_Certificate.jpg">
  </ul>
    
