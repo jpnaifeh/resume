@@ -1,6 +1,6 @@
 <img src="Headshot.jpeg" width="160" height="248">
 <h1>J.P. Naifeh</h1>
-<p>Senior studying Computer Information Systems at The University of Tulsa!</p>
+<p>The following is an overview of the technical training and certifications that I have completed while a student at The University of Tulsa! I am currently a Senior pursuing a B.S.B.A. in Computer Information. Anticipated Graduation: Spring 2020.</p>
 <br><br>
  
 <h3>Tech Skills Resumé</h3>
@@ -76,6 +76,10 @@
  <b>Course Completion Certificate:</b><br>
     <img src="Powershell_Certificate.jpg">
  </ul>
+ <br><br>
+ <b>Linux VPN Implementation:</b>
+ <p>In addition to the LPI Linux Essentials training by LinuxAcademy, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 18.1.6. Below is a screenshot verifying my installation.</p>
+ <img src="DO_VPN_Proof.png">
    
 </details>
 
