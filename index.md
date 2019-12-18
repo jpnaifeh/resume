@@ -7,29 +7,24 @@
 
 <details><summary>GitHub</summary>
  <ul>
-  <h4>Courses Completed</h4>
+  <h4>Courses Completed:</h4> First Day on GitHub & First Week on GitHub
+  <h4>Topics Covered</h4>
   <ul>
-   <li>First Day on GitHub</li>
-   <li>First Week on GitHub</li>
+   <li>Getting Ready for PowerShell</li>
+   <li>Discovering and Getting Help</li>
+   <li>Extending Your Capabilities with PowerShell</li>
+   <li>Using the Power of the Pipeline</li>
+   <li>Getting More Out of Objects</li>
+   <li>Scripts and Automation</li>
+   <li>Scalable Management with PowerShell Remoting</li>
   </ul>
-   <h2>Topics Covered</h2>
-  <ul>
-  <li>Getting Ready for PowerShell</li>
-  <li>Discovering and Getting Help</li>
-  <li>Extending Your Capabilities with PowerShell</li>
-  <li>Using the Power of the Pipeline</li>
-  <li>Getting More Out of Objects</li>
-  <li>Scripts and Automation</li>
-  <li>Scalable Management with PowerShell Remoting</li>
- </ul>
  </ul>
    
 </details>
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
-  <h4>Course Completed:</h4>
-  <ul><li>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</li></ul>
+  <h4>Course Completed:</h4> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI 
        <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
   <h4>Topics Covered</h4>
    <ul>
@@ -62,9 +57,7 @@
 </details>
 
 <details><summary>PowerShell</summary>
- <ul>
-  <h4>Course Completed:</h4>
-  <ul><li>PowerShell 5 Essentials</li></ul>
+ <h4>Course Completed:</h4> PowerShell 5 Essentials
   <br>
   <br>
 <p>PowerShell is the must-have tool for Windows system administrators. Jump-start your career, and your IT environment, by getting up and running with the latest version, PowerShell 5. Jason Helmick shows you how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. Plus, learn how to take advantage of one of PowerShell's most exciting features, remote management, which can put thousands of machines at your beck and call.</p>
@@ -89,8 +82,7 @@
 
 <details><summary>Salesforce</summary>
  <ul>
-  <h4>Course Completed:</h4>
-  <ul><li>Salesforce Admin Beginner Course</li></ul>
+  <h4>Course Completed:</h4> Salesforce Admin Beginner Course
   <br>
   <br>
 PowerShell is the must-have tool for Windows system administrators. Jump-start your career, and your IT environment, by getting up and running with the latest version, PowerShell 5. Jason Helmick shows you how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. Plus, learn how to take advantage of one of PowerShell's most exciting features, remote management, which can put thousands of machines at your beck and call.
