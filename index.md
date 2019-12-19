@@ -7,7 +7,11 @@
 
 <details><summary>GitHub</summary>
  <ul>
-  <b>Courses Completed:</b> First Day on GitHub & First Week on GitHub
+  <h4>Courses Completed:</h4> 
+  <ul>
+   <li>First Day on GitHub</li>
+   <li>First Week on GitHub</li>
+  </ul>
   <h4>Topics Covered:</h4>
   <ul>
    <li>Getting Ready for PowerShell</li>
@@ -24,8 +28,11 @@
 
 <details><summary>Microsoft Power BI</summary>
  <ul>
-  <b>Course Completed:</b> Microsoft: DAT207x Analyzing and Visualizing Data with Power BI <br>
-       <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a>
+  <h4>Course Completed:</h4> 
+  <ul>
+  <li>Microsoft: DAT207x Analyzing and Visualizing Data with Power BI <br>
+   <a href="Course | DAT207x | edX.pdf">Course Verification (Audit Track)</a></li>
+  </ul>
   <h4>Topics Covered:</h4>
    <ul>
     <li>Understanding key concepts in business intelligence, data analysis, and data visualization</li>
@@ -81,7 +88,10 @@
 
 <details><summary>AWS</summary>
  <ul>
-  <b>Course Completed:</b> AWS Essentials
+  <h4>Course Completed:</h4> 
+  <ul>
+   <li>AWS Essentials</li>
+  </ul>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with AWS</li>
@@ -102,8 +112,11 @@
  
 
 <details><summary>PowerShell</summary>
- <b>Course Completed:</b> PowerShell 5 Essentials
  <ul>
+ <h4>Course Completed:</h4> 
+ <ul>
+  <li>PowerShell 5 Essentials</li>
+  </ul>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Installing Windows Management Framework 5</li>
@@ -126,7 +139,10 @@
 
 <details><summary>Salesforce</summary>
  
-  <b>Course Completed:</b> Salesforce Admin Beginner Course
+  <h4>Course Completed:</h4> 
+  <ul>
+ <li>Salesforce Admin Beginner Course</li>
+ </ul>
    <h4>Topics Covered:</h4>
   <ul>
    <li>Getting started with Salesforce</li>
