@@ -21,6 +21,8 @@
    <li>Scripts and Automation</li>
    <li>Scalable Management with PowerShell Remoting</li>
   </ul>
+   <h4>Course Completion Certificate:</h4>
+    <img src="github.png">
  </ul>
    
 </details>
@@ -80,7 +82,7 @@
  </ul>
  <br>
  <h4>Linux VPN Implementation:</h4>
- <p>In addition to the LPI Linux Essentials training by LinuxAcademy, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 18.1.6. Below is a screenshot verifying my installation.</p>
+ <p>In addition to the LPI Linux Essentials training by LinuxAcademy, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 19.04. Below is a screenshot verifying my installation.</p>
  <img src="DO_VPN_Proof.png">
    
 </details>
