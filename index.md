@@ -153,6 +153,9 @@
    <li>Engaging users</li>
    <li>Working with reports and dashboards</li>
  </ul>
+ <h4>Course Completion Verification:</h4>
+  <img src="salesforce.jpg">
+ </ul>
  
    
 </details>
