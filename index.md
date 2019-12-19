@@ -69,7 +69,7 @@
  <p>The LPI Linux Essentials training explains the basics of Linux and builds up to cover the topics neccessary to complete the LPI Linux Essentials Certification. The training included various hands-on labs where students could SSH into a Linux machine and complete various tasks using the command line. This course was completed in preparation for completing the LPI Linux Essentials Certification.</p>
  <h4>Course Completed</h4>
  <ul>
-  <li><a href="https://linuxacademy.com/course/lpi-linuxessentials/">LPI Linux Essentials Certification Training</a> on Linux Academy</li>
+  <li><a href="https://linuxacademy.com/course/lpi-linuxessentials/">LPI Linux Essentials</a></li>
  </ul>
  <h4>Topics Covered</h4>
  <ul>
@@ -91,7 +91,7 @@
 <details><summary>AWS</summary>
   <h4>Course Completed</h4> 
   <ul>
-   <li><a href="https://linuxacademy.com/course/aws-essentials-new/">AWS Essentials Certification Training</a> on Linux Academy</li>
+   <li><a href="https://linuxacademy.com/course/aws-essentials-new/">AWS Essentials</a></li>
   </ul>
   <h4>Topics Covered</h4>
   <ul>
@@ -111,12 +111,12 @@
  
 
 <details><summary>PowerShell</summary>
+ <p>PowerShell is a powerful tool used by network administrators to work with Windows machines and automate network management tasks. This training discussed commands, automation, scripting, working with the PowerShell pipeline, and many other useful topics.</p>
+ <h4>Course Completed</h4> 
  <ul>
- <h4>Course Completed:</h4> 
- <ul>
-  <li>PowerShell 5 Essentials</li>
-  </ul>
-   <h4>Topics Covered:</h4>
+  <li><a href="https://www.linkedin.com/learning/powershell-5-essential-training/installing-the-windows-management-framework-5?autoplay=true&trk=learning-course_table-of-contents_video&upsellOrderOrigin=default_guest_learning">PowerShell 5 Essentials</a></li>
+ </ul>
+ <h4>Topics Covered</h4>
   <ul>
    <li>Installing Windows Management Framework 5</li>
    <li>Running commands (cmdlets)</li>
@@ -130,20 +130,18 @@
    <li>Automating tasks</li>
    <li>Using PowerShell remoting</li>
  </ul>
- <h4>Course Completion Certificate:</h4>
-  <img src="Powershell_Certificate.jpg">
- </ul>
-   
+ <h4>Course Completion Certificate</h4>
+ <img src="Powershell_Certificate.jpg">
 </details>
 
 <details><summary>Salesforce</summary>
- 
-  <h4>Course Completed:</h4> 
-  <ul>
- <li>Salesforce Admin Beginner Course</li>
+ <p>Salesforce is a 
+ <h4>Course Completed</h4> 
+ <ul>
+  <li>Salesforce Admin Beginner Course</li>
  </ul>
-   <h4>Topics Covered:</h4>
-  <ul>
+ <h4>Topics Covered</h4>
+ <ul>
    <li>Getting started with Salesforce</li>
    <li>Understanding the architecture</li>
    <li>Data modeling</li>
@@ -153,10 +151,7 @@
    <li>Engaging users</li>
    <li>Working with reports and dashboards</li>
  </ul>
- <h4>Course Completion Verification:</h4>
+ <h4>Course Completion Verification</h4>
   <img src="salesforce.jpg">
- </ul>
- 
-   
 </details>
  
