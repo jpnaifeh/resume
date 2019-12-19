@@ -69,7 +69,7 @@
    <li>Users, groups, and permissions</li>
  </ul>
  <h4>Course Completion Certificate:</h4>
-    <img src="Powershell_Certificate.jpg">
+    <img src="Linux_Cert.jpg">
   <br>
  </ul>
  <br>
