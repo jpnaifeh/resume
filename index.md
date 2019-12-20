@@ -135,10 +135,10 @@
 </details>
 
 <details><summary>Salesforce</summary>
- <p>Salesforce is a 
+ <p>The Admin Beginner course for Salesforce is a series of hands-on labs and quizzes that guide users through various tasks associated with managing a Salesforce installation. The course also allowed access to a fully functional Salesforce account to expirament with various features of the platform.</p>
  <h4>Course Completed</h4> 
  <ul>
-  <li>Salesforce Admin Beginner Course</li>
+  <li><a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Salesforce: Admin Beginner Course</a></li>
  </ul>
  <h4>Topics Covered</h4>
  <ul>
@@ -154,4 +154,3 @@
  <h4>Course Completion Verification</h4>
   <img src="salesforce.jpg">
 </details>
- 
