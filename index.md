@@ -66,7 +66,7 @@
 </details>
 
 <details><summary>Linux</summary>
- <p>The LPI Linux Essentials training explains the basics of Linux and builds up to cover the topics neccessary to complete the LPI Linux Essentials Certification. The training included various hands-on labs where students could SSH into a Linux machine and complete various tasks using the command line. This course was completed in preparation for completing the LPI Linux Essentials Certification.</p>
+ <p>The LPI Linux Essentials training explains the basics of Linux and builds up to cover the topics necessary to complete the LPI Linux Essentials Certification. The training included various hands-on labs where students could SSH into a Linux machine and complete various tasks using the command line. This course was completed in preparation for completing the LPI Linux Essentials Certification.</p>
  <h4>Course Completed</h4>
  <ul>
   <li><a href="https://linuxacademy.com/course/lpi-linuxessentials/">LPI Linux Essentials</a></li>
@@ -135,7 +135,7 @@
 </details>
 
 <details><summary>Salesforce</summary>
- <p>The Admin Beginner course for Salesforce is a series of hands-on labs and quizzes that guide users through various tasks associated with managing a Salesforce installation. The course also allowed access to a fully functional Salesforce account to expirament with various features of the platform.</p>
+ <p>The Admin Beginner course for Salesforce is a series of hands-on labs and quizzes that guide users through various tasks associated with managing a Salesforce installation. The course also allowed access to a fully functional Salesforce account to experiment with various features of the platform.</p>
  <h4>Course Completed</h4> 
  <ul>
   <li><a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Salesforce: Admin Beginner Course</a></li>
