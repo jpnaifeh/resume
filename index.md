@@ -26,7 +26,7 @@
 </details>
 
 <details><summary>Microsoft Power BI</summary>
- <p>Microsoft Power BI is a business intelligence suite that enables working with extremely large datasets. In this training course, large datasets were imported into Power BI and visualized in a number of ways. Below is a link to a video overview of the dashboard I created as part of this course.</p>
+ <p>Microsoft Power BI is a business intelligence suite that enables working with extremely large datasets. In this training course, large datasets were imported into Power BI and visualized in several ways. Below is a link to a video overview of the dashboard I created as part of this course.</p>
  <h4>Course Completed</h4> 
  <ul>
   <li><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2017/course/">Microsoft: DAT207x Analyzing and Visualizing Data with Power BI</a></li>
@@ -74,7 +74,7 @@
  <h4>Topics Covered</h4>
  <ul>
   <li>Getting started with Linux</li>
-  <li>Open source software</li>
+  <li>Open-source software</li>
   <li>Using the command line</li>
   <li>Working with and archiving files</li>
   <li>Data storage</li>
@@ -84,7 +84,7 @@
     <img src="Linux_Cert.jpg">
  <br>
  <h4>Linux VPN Implementation</h4>
- <p>In addition to the LPI Linux Essentials training, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubnutu 19.04. Below is a screenshot verifying my installation.</p>
+ <p>In addition to the LPI Linux Essentials training, I also set up a Virtual Private Network (VPN) utilizing Digital Ocean hardware running Ubuntu 19.04. Below is a screenshot verifying my installation.</p>
  <img src="DO_VPN_Proof.png">
 </details>
 
