@@ -1,4 +1,4 @@
-
+<head><script data-ad-client="ca-pub-9371509160595620" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <h1>J.P. Naifeh</h1>
 <p>The following is an overview of the technical training and certifications that I have completed while a student at The University of Tulsa! I am currently a Senior pursuing a B.S.B.A. in Computer Information Systems. Anticipated Graduation: Spring 2020.</p>
  
